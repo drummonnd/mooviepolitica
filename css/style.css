@@ -1,0 +1,19 @@
+/* Gerais */
+body{
+    font-family: 'roboto', Sans-serif;
+}
+row{
+    margin: 0;
+}
+container{
+    padding: 70px 0;
+}
+/*PORTIFOLIO*/
+
+.project-box{
+    margin: 30px;
+}
+#filter-btn-box {
+    margin: 50px;
+    text-align: center;
+}
